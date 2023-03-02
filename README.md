@@ -1,4 +1,4 @@
-# Desafio Ignite Rocketseat <img width="30" height="30" src="./src/assets/logo.svg" />
+# Desafio Ignite Rocketseat <img width="100" height="100" src="./src/assets/logo.svg" />
 
 Repositório destinado a armazenar todas as resoluções dos desafios que desenvolvi juntamente com o
 link para o vídeo no meu canal onde desenvolvo do zero a resolução explicando alguns conceitos do
