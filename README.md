@@ -22,13 +22,13 @@ o localStorage para poder armazenar as notas...
 - Phosphor-React
 
 <br />
-
+## 💻 SITE DO PROJETO PARA TESTAR
 <a href="https://desafio-to-do-list-chi.vercel.app/" target="_blank">
 Site para você testar...
 </a>
 
 <br />
-
+## ✏️ FIGMA DO PROJETO
 <a href="https://www.figma.com/file/wwCiqN3yX1FYqEVxXO3GXh/ToDo-List-(Copy)?node-id=0%3A1&t=kXvNZYDp0PQEvEKR-1" target="_blank">
 Figma do Projeto...
 </a>
