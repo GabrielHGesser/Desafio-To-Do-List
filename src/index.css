@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: "Inter";
+}
+
+@layer components {
+	.boxListResize {
+		max-height: calc(100vh - 500px);
+	}
+}
+
+/* ESTILIZANDO A SCROLL BAR DA TABELA */
+::-webkit-scrollbar {
+	@apply bg-gray_700;
+	width: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+	@apply bg-gray_400;
+	border-radius: 5px;
+}
