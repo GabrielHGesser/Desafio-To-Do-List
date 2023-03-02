@@ -24,11 +24,11 @@ o localStorage para poder armazenar as notas...
 <br />
 
 <a href="https://desafio-to-do-list-chi.vercel.app/" target="_blank">
-Site para você testar
+Site para você testar...
 </a>
 
 <a href="https://www.figma.com/file/wwCiqN3yX1FYqEVxXO3GXh/ToDo-List-(Copy)?node-id=0%3A1&t=kXvNZYDp0PQEvEKR-1" target="_blank">
-<img src="./src/assets/figma.svg" />
+Figma do Projeto...
 </a>
 
 &nbsp;
